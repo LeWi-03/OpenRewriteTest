@@ -1,5 +1,6 @@
-import javax.servlet.Servlet;
-import javax.persistence.Entity;
+import javax.activation.*;
+import javax.persistence.*;
+import javax.servlet.*;
 
 public class MyApplication {
     public static void main(String[] args) {
